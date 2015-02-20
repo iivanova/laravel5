@@ -4,10 +4,10 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	{{ HTML::style('media/css/bootstrap.min.css'); }}
-	{{ HTML::style('media/css/bootstrap-theme.min.css'); }}
-	{{ HTML::style('media/css/bootstrap-admin-theme.css'); }}
-	{{ HTML::style('media/css/bootstrap-admin-theme-change-size.css'); }}
+	{!! HTML::style('media/css/bootstrap.min.css'); !!}
+	{!! HTML::style('media/css/bootstrap-theme.min.css'); !!}
+	{!! HTML::style('media/css/bootstrap-admin-theme.css'); !!}
+	{!! HTML::style('media/css/bootstrap-admin-theme-change-size.css'); !!}
 	
 <title>Welcome</title>
 </head>
